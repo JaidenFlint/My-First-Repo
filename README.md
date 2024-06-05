@@ -1,2 +1,2 @@
 # My-First-Repo
-First Update
+First Update to the git for this tuesday
